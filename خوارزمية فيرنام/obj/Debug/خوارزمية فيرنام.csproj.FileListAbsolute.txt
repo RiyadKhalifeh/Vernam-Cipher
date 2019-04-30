@@ -1,0 +1,10 @@
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\bin\Debug\خوارزمية فيرنام.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\bin\Debug\خوارزمية فيرنام.pdb
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية_فيرنام.Form1.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية_فيرنام.Properties.Resources.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية فيرنام.csproj.GenerateResource.Cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية فيرنام.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية فيرنام.pdb
+C:\Users\DigitalNet\Documents\Visual Studio 2012\Projects\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية فيرنام.csprojResolveAssemblyReference.cache
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية فيرنام.exe
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية فيرنام\خوارزمية فيرنام\obj\Debug\خوارزمية فيرنام.pdb
